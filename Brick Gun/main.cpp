@@ -53,7 +53,7 @@ IN THIS PROJECT, I WILL IMPLEMENT THE FOLLOWING:
 HWND hWnd = 0;
 
 // Each color is from 0.0f to 1.0f  ( 0/255 to 255/255 ) 
-#define BACKGROUND_COLOR D3DXCOLOR(0.2f, 0.2f, 0.2f, 0.2f)
+#define BACKGROUND_COLOR D3DXCOLOR(0.0f, 0.0f, 0.0f, 0.0f)
 
 #define WINDOW_WIDTH 640
 #define WINDOW_HEIGHT 480

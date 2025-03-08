@@ -134,12 +134,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\bullet.png" />
     <Image Include="..\..\..\..\Game\Game\brick.ico" />
     <Image Include="..\..\..\..\Game\Game\brick.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="resource.h" />
+    <Image Include="img\bullet.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
