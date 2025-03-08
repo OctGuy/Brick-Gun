@@ -420,6 +420,7 @@ void ShootBullet() {
 	}
 }
 
+
 void HandleInput()
 {
 	// Check if A key is pressed to move left
